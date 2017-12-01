@@ -26,13 +26,13 @@ moving city scenes, mainly cars, roads, humans...
 
 https://www.cityscapes-dataset.com/
 
-@PKUMI cluster 1 \n\data\cityscapes
+@PKUMI2 /n/data/cityscapes
 
 ## BDD
 
 mainly city scenes, large scale and high resolution
 
-@PKUMI cluster 1 \n\data\BDD
+@PKUMI2 /n/data/BDD
 
 
 
